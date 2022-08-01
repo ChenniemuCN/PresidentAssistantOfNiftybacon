@@ -1,2 +1,2 @@
 # Discord.Bot
-A unfinished discord bot
+An unfinished discord bot
